@@ -17,4 +17,3 @@ module.exports = function dateSample(sampleActivity) {
 
   return Math.ceil(t)
 }
-// dateSample('3.142')
